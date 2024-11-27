@@ -1,6 +1,6 @@
 # Frontend Mentor - File Transfer pricing component
 
-![Design preview for the File Transfer pricing component coding challenge](screenshot.jpg)
+(screenshot.jpg)
 
 ## Welcome! 👋
 
