@@ -1,12 +1,10 @@
 # Frontend Mentor - File Transfer pricing component
 
-(screenshot.jpg)
+![Design preview for the File Transfer pricing component coding challenge](screenshot.jpg)
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
@@ -21,20 +19,6 @@ Your users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
 - **Bonus**: Complete the challenge with just HTML and CSS
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to, as well as a design for the active states.
-
-The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
-
-If you would like the Sketch file in order to inspect the design in more detail it is available to [purchase here](https://bmc.xyz/l/ASbglU6ft).
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
 ## Building your project
 
